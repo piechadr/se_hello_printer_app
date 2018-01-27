@@ -24,3 +24,8 @@ def supported_output():
 @app.route('/Adrian')
 def show_name():
     return "Adrian"
+
+
+@app.route('/nowy')
+def show():
+    return "Nowy branch"
