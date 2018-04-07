@@ -14,4 +14,4 @@ script:
 deploy:
   provider: heroku
   api_key: ${HEROKU_API_KEY}
-    secure: "YOUR ENCRYPTED API KEY"
+  app: ancient-savannah-34573
