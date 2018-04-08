@@ -81,3 +81,5 @@ Materiały
 =========
 
 - https://virtualenvwrapper.readthedocs.io/en/latest/
+
+https://travis-ci.org/piechadr/se_hello_printer_app.svg?branch=master
