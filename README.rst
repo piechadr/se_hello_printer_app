@@ -42,7 +42,8 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
 
   ::
 
-    https://travis-ci.org/piechadr/se_hello_printer_app.svg?branch=master
+  .. image:: https://travis-ci.org/piechadr/se_hello_printer_app.svg?branch=master
+      :target: https://travis-ci.org/piechadr/se_hello_printer_app
 
 
 Pomocnicze
@@ -81,5 +82,3 @@ Materiały
 =========
 
 - https://virtualenvwrapper.readthedocs.io/en/latest/
-
-https://travis-ci.org/piechadr/se_hello_printer_app.svg?branch=master
