@@ -46,6 +46,13 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
   :target: https://travis-ci.org/piechadr/se_hello_printer_app
 
 
+- Integracja ze StatusCake
+
+  ::
+
+.. image:: https://app.statuscake.com/button/index.php?Track=KMrEh7LJhl&Days=1&Design=1
+  :target: https://www.statuscake.com
+
 Pomocnicze
 ==========
 
